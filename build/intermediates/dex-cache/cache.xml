@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_github\SpringIndicator-master\sample\build\intermediates\exploded-aar\com.github.chenupt.android\multiplemodel\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4d54bca94a9d57520efa2934a9eb57a4cae3f889">
+        <dex dex="D:\android_github\SpringIndicator-master\sample\build\intermediates\pre-dexed\debug\com.github.chenupt.android-multiplemodel-1.1.0_c42695489525c7ff19d18526f65e3716e8caf2ab.jar" />
+    </item>
+    <item
+        jar="D:\android_github\SpringIndicator-master\sample\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\android_github\SpringIndicator-master\sample\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_0bd6779cc0668f3950e661656e6802296d760817.jar" />
+    </item>
+    <item
+        jar="F:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\android_github\SpringIndicator-master\sample\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_458bdc61b14f9a8c6f445996d1cae5539e85335d.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\caches\modules-2\files-2.1\com.google.guava\guava\18.0\cce0823396aa693798f8882e64213b1772032b09\guava-18.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="D:\android_github\SpringIndicator-master\sample\build\intermediates\pre-dexed\debug\guava-18.0_3e3741408d2ca46d9dcf8974009c26d17813b0fe.jar" />
+    </item>
+    <item
+        jar="D:\android_github\SpringIndicator-master\sample\build\intermediates\exploded-aar\SpringIndicator-master\lib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c545520c2e66c7fe2aef317a92f34867008e4eae">
+        <dex dex="D:\android_github\SpringIndicator-master\sample\build\intermediates\pre-dexed\debug\SpringIndicator-master-lib-unspecified_b69078dc4af09736a7e8c1eb0ece10ed5384baec.jar" />
+    </item>
+    <item
+        jar="D:\android_github\SpringIndicator-master\sample\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\android_github\SpringIndicator-master\sample\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_e603f0a4ee5d22587d0b28b0a73fd7349d7ff6dd.jar" />
+    </item>
+    <item
+        jar="D:\android_github\SpringIndicator-master\sample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\android_github\SpringIndicator-master\sample\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_df718b7f7e86ae04e3b63a0b21181af0b83e834d.jar" />
+    </item>
+
+</items>
